@@ -33,6 +33,6 @@ public class DetailActivity extends DaggerAppCompatActivity implements DetailVie
 
     @Override
     public void onDetailLoaded() {
-        Log.v("TEST", "Detail is loaded");
+        Log.v("TEST-I-AM-MERT", "Detail is loaded");
     }
 }
