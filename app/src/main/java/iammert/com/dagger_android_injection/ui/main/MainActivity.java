@@ -33,6 +33,6 @@ public class MainActivity extends DaggerAppCompatActivity implements MainView {
 
     @Override
     public void onMainLoaded() {
-        Log.v("TEST", "Main page is loaded.");
+        Log.v("TEST-I-AM-MERT", "Main page is loaded.");
     }
 }

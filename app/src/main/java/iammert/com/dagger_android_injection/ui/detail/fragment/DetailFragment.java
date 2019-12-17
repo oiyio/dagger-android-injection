@@ -41,6 +41,6 @@ public class DetailFragment extends DaggerFragment implements DetailFragmentView
 
     @Override
     public void onDetailFragmentLoaded() {
-        Log.v("TEST", "OnDetailFragmentLoaded.");
+        Log.v("TEST-I-AM-MERT", "OnDetailFragmentLoaded.");
     }
 }
